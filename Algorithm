@@ -1,0 +1,6 @@
+Algorithm 
+STEP 1: Start
+STEP 2: Accept the number from the user and store it in n
+STEP 3: if the modulus2 of number is == 0 then it is even n%2==0
+STEP 4: else it is odd
+STEP 5: Stop
